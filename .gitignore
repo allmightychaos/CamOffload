@@ -1,0 +1,7 @@
+# Laufzeitdaten der App
+einstellungen.json
+logs/
+temp/
+
+# Build-Ergebnis (wird aus build/Launcher.cs gebaut)
+*.exe
